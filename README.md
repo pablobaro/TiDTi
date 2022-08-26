@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pablobaro/TiDTi">
-   <!-- <img src="images/tidti_fondo.png" alt="Logo" width="80" height="80">-->
+   <img src="images/tidti_fondo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">TiDTi</h3>
