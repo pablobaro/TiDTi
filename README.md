@@ -42,7 +42,7 @@
    ⛔ Islas Baleares<br/>
    ⛔ La Rioja<br/>
    ⛔ Melilla<br/>
-   ⛔ País Vasco<br/><br/>
+   ⛔ País Vasco<br/>
    ⛔ Región de Murcia<br/>
    
  
