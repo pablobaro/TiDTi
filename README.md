@@ -20,33 +20,33 @@
   </p>
 </div>
 
-### Historia
+<h2> Historia </h2>
  - La aplicación está hecha para poder ver la Televisión Española desde una simple APP, en la cual aún no está terminada, pero voy actualizándola con nuevas novedades, y nuevos canales.
  
- ### Cosas Por Hacer
- - Canales Comunidades Autónomas. Actualmente:
+ <h2> Cosas Por Hacer <h2>
+ - Canales Comunidades Autónomas. Actualmente:<br/>
    ⭐ Andalucía
  
- Faltan:
-   ⛔ Aragón
-   ⛔ Canarias
-   ⛔ Cantabria
-   ⛔ Castilla La Mancha
-   ⛔ Castilla y León
-   ⛔ Cataluña
-   ⛔ Madrid
-   ⛔ Comunidad Foral de Navarra
-   ⛔ Comunidad Valenciana
-   ⛔ Extremadura
-   ⛔ Galicia
-   ⛔ Islas Baleares
-   ⛔ La Rioja
-   ⛔ Melilla
-   ⛔ País Vasco
-   ⛔ Región de Murcia
+ Faltan: <br/>
+   ⛔ Aragón<br/>
+   ⛔ Canarias<br/>
+   ⛔ Cantabria<br/>
+   ⛔ Castilla La Mancha<br/>
+   ⛔ Castilla y León<br/>
+   ⛔ Cataluña<br/>
+   ⛔ Madrid<br/>
+   ⛔ Comunidad Foral de Navarra<br/>
+   ⛔ Comunidad Valenciana<br/>
+   ⛔ Extremadura<br/>
+   ⛔ Galicia<br/>
+   ⛔ Islas Baleares<br/>
+   ⛔ La Rioja<br/>
+   ⛔ Melilla<br/>
+   ⛔ País Vasco<br/><br/>
+   ⛔ Región de Murcia<br/>
    
  
- ### Novedades
+ <h2> Novedades <h2>
   - Poder pasar de canal con el mando, pulsando el botón derecho del PAD.
   - Cada 24 Horas aproximadamente, quedará guardado el canal internamente en la app, haciendo posible que no haga falta cargarla cada vez que entremos en él. Si nos caduca el enlace, la app volverá a encontrar de nuevo el canal para poder reproducirlo.
 
