@@ -15,16 +15,40 @@
 <h3 align="center">TiDTi</h3>
 
   <p align="center">
-    Aplicación para ver la TDT en España
+    Aplicación para ver la TDT de España 🇪🇸
     <br/>
   </p>
 </div>
 
-### Built With
- - La aplicación está hecha con Java y Android Studio, ambas son con las que he estado trabajando en el grado superior.
-* [![Java][Java.js]][Java-url]
-* [![Android][Android.js]][Android-url]
-
+### Historia
+ - La aplicación está hecha para poder ver la Televisión Española desde una simple APP, en la cual aún no está terminada, pero voy actualizándola con nuevas novedades, y nuevos canales.
+ 
+ ### Cosas Por Hacer
+ - Canales Comunidades Autónomas. Actualmente:
+   ⭐ Andalucía
+ 
+ Faltan:
+   ⛔ Aragón
+   ⛔ Canarias
+   ⛔ Cantabria
+   ⛔ Castilla La Mancha
+   ⛔ Castilla y León
+   ⛔ Cataluña
+   ⛔ Madrid
+   ⛔ Comunidad Foral de Navarra
+   ⛔ Comunidad Valenciana
+   ⛔ Extremadura
+   ⛔ Galicia
+   ⛔ Islas Baleares
+   ⛔ La Rioja
+   ⛔ Melilla
+   ⛔ País Vasco
+   ⛔ Región de Murcia
+   
+ 
+ ### Novedades
+  - Poder pasar de canal con el mando, pulsando el botón derecho del PAD.
+  - Cada 24 Horas aproximadamente, quedará guardado el canal internamente en la app, haciendo posible que no haga falta cargarla cada vez que entremos en él. Si nos caduca el enlace, la app volverá a encontrar de nuevo el canal para poder reproducirlo.
 
 [stars-shield]: https://img.shields.io/github/stars/pablobaro/TiDTi.svg?style=for-the-badge
 [stars-url]: https://github.com/pablobaro/TiDTi/stargazers
