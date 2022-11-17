@@ -48,7 +48,8 @@
  
  <h2> Novedades </h2>
   - Poder pasar de canal con el mando, pulsando el botón derecho del PAD.<br/>
-  - Cada 24 Horas aproximadamente, quedará guardado el canal internamente en la app, haciendo posible que no haga falta cargarla cada vez que entremos en él. Si nos caduca el enlace, la app volverá a encontrar de nuevo el canal para poder reproducirlo.
+  - Cada 24 Horas aproximadamente, quedará guardado el canal internamente en la app, haciendo posible que no haga falta cargarla cada vez que entremos en él. Si nos caduca el enlace, la app volverá a encontrar de nuevo el canal para poder reproducirlo.<br/>
+  - La aplicación hará falta instalarla solo por primera vez, la app cuando encuentre actualizaciones (que se subirán aquí en github), se nos actualizará la app sola.
 
 [stars-shield]: https://img.shields.io/github/stars/pablobaro/TiDTi.svg?style=for-the-badge
 [stars-url]: https://github.com/pablobaro/TiDTi/stargazers
