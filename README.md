@@ -25,10 +25,10 @@
  
  <h2> Cosas Por Hacer </h2>
  - Canales Comunidades Autónomas. Actualmente:<br/>
-   ⭐ Andalucía
+   ⭐ Andalucía<br/>
+   ⭐ Aragón<br/>
  
  Faltan: <br/>
-   ⛔ Aragón<br/>
    ⛔ Canarias<br/>
    ⛔ Cantabria<br/>
    ⛔ Castilla La Mancha<br/>
