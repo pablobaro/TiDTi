@@ -52,9 +52,9 @@
   - La aplicación hará falta instalarla solo por primera vez, la app cuando encuentre actualizaciones (que se subirán aquí en github), se nos actualizará la app sola.
 
 <h2>Próximas actualizaciones</h2>
-  - Multi-Hilo para ir cargando los canales en segundo plano e intentar evitar la pantalla de carga.
-  - Mejorar movimiento dentro de la aplicación.
-  - Mostrar Guía de la Programación de cada canal.
+  - Multi-Hilo para ir cargando los canales en segundo plano e intentar evitar la pantalla de carga.<br/>
+  - Mejorar movimiento dentro de la aplicación.<br/>
+  - Mostrar Guía de la Programación de cada canal.<br/>
   - Mostrar barra de tiempo con duración de cada programa actual del canal.
 
 
