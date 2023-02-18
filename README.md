@@ -23,6 +23,19 @@
 <h2> Historia </h2>
  - La aplicación está hecha para poder ver la Televisión Española desde una simple APP, en la cual aún no está terminada, pero voy actualizándola con nuevas novedades, y nuevos canales.
  
+<h1>AtresPlayer</h1>
+A partir de Febrero de 2023, AtresPlayer ha puesto más complicado el ver su aplicación, la única solución viable que he visto ha sido la siguiente.<br/>
+- Instalar la aplicación de ratón virtual en el FireStick: <a href="http://bit.ly/3xAtKtI">Descargar.<br/>
+- Una vez instalada, y teniéndo los permisos de depuración y ADB en los ajustes del FireTV, podremos usar un ratón virtual dentro de la aplicación.<br/>
+<img src="images/tidti_ajustesDeveloper.jpg" alt="Developer" width="150" height="125"><br/>
+- Dentro de la App accedemos a Antena 3 o La Sexta, o cualquiera de AtresPlayer, y se nos abrirá la ventana de AtresPlayer. Ahora teniendo el ratón virtual, podremos movernos por la pantalla, dándole al botón de Play/Pause del FireStick 2 veces seguidas.<br/>
+- Le damos a aceptar términos de AtresPlayer<br/>
+<img src="images/tidti_aceptarTerminos.jpg" alt="Aceptar Terminos">
+- Y seguidamente, le damos a Acceder Gratis.
+<img src="images/tidti_cuentaAtresplayer.jpg" alt="Introducir Cuenta">
+- Obviamente, si nos registramos en AtresPlayer desde el móvil, nos será más fácil iniciar sesión en la app.
+- Una vez estemos ya iniciados sesión, lo más fácil sería salir a la pantalla principal donde nos aparecen todos los canales, y le demos a reproducir, y haciendo eso, ya tendremos de nuevo los canales de AtresPlayer funcionales.
+
  <h2> Cosas Por Hacer </h2>
  - Canales Comunidades Autónomas. Actualmente:<br/>
    ⭐ Andalucía<br/>
