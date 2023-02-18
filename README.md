@@ -28,7 +28,7 @@ A partir de Febrero de 2023, AtresPlayer ha puesto más complicado el ver su apl
 - Instalar la aplicación de ratón virtual en el FireStick desde la APP downloader que proporciona Amazon: <a href="http://bit.ly/3xAtKtI">Descargar</a>.<br/>
 - Una vez instalada, y teniéndo los permisos de depuración y ADB en los ajustes del FireTV, podremos usar un ratón virtual dentro de la aplicación.<br/>
 <img src="images/tidti_ajustesDeveloper.jpg" alt="Developer" width="150" height="125"><br/>
-- Dentro de la App accedemos a Antena 3 o La Sexta, o cualquiera de AtresPlayer, y se nos abrirá la ventana de AtresPlayer. Ahora teniendo el ratón virtual, podremos movernos por la pantalla, dándole al botón de Play/Pause del FireStick 2 veces seguidas.<br/>
+- Dentro de la App de TiDTi accedemos a Antena 3 o La Sexta, o cualquiera de AtresPlayer, y se nos abrirá la ventana de AtresPlayer. Ahora teniendo el ratón virtual, podremos movernos por la pantalla, dándole al botón de Play/Pause del FireStick 2 veces seguidas.<br/>
 - Le damos a aceptar términos de AtresPlayer<br/>
 <img src="images/tidti_aceptarTerminos.jpg" alt="Aceptar Términos">
 - Y seguidamente, le damos a Acceder Gratis.
