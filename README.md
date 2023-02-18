@@ -30,10 +30,11 @@ A partir de Febrero de 2023, AtresPlayer ha puesto más complicado el ver su apl
 <img src="images/tidti_ajustesDeveloper.jpg" alt="Developer" width="150" height="125"><br/>
 - Dentro de la App accedemos a Antena 3 o La Sexta, o cualquiera de AtresPlayer, y se nos abrirá la ventana de AtresPlayer. Ahora teniendo el ratón virtual, podremos movernos por la pantalla, dándole al botón de Play/Pause del FireStick 2 veces seguidas.<br/>
 - Le damos a aceptar términos de AtresPlayer<br/>
-<img src="images/tidti_aceptarTerminos.jpg" alt="Aceptar Terminos">
+<img src="images/tidti_aceptarTerminos.jpg" alt="Aceptar Términos">
 - Y seguidamente, le damos a Acceder Gratis.
-<img src="images/tidti_cuentaAtresplayer.jpg" alt="Introducir Cuenta">
+<img src="images/tidti_accederGratis.jpg" alt="Acceder Gratis">
 - Obviamente, si nos registramos en AtresPlayer desde el móvil, nos será más fácil iniciar sesión en la app.
+<img src="images/tidti_cuentaAtresplayer.jpg" alt="Introducir Cuenta">  
 - Una vez estemos ya iniciados sesión, lo más fácil sería salir a la pantalla principal donde nos aparecen todos los canales, y le demos a reproducir, y haciendo eso, ya tendremos de nuevo los canales de AtresPlayer funcionales.
 
  <h2> Cosas Por Hacer </h2>
